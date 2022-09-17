@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @EYAKENO
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-EYAKENO/EYAKENO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <img src="./images/image-qr-code.png">
+        <p class="p2">Improve your front-end skill by building projects</p>
+        <p class="p1">scan the QR code to visit front end mentor and take your coding skill to the next level </p>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
